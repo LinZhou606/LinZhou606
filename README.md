@@ -8,7 +8,7 @@
 - 🏃‍♀️Transitioning to a career in actuarial science within the insurance industry, leveraging my background in Data Analytics and Data Science to provide predictive insights and analytical rigor.  
   
 
-- 📚 Currently Learning: Advanced actuarial models and preparing for the SOA exams.   
+- 📚 Currently Learning: Advanced actuarial models and preparing for the SOA exams (passed P Exam, 2024.11).   
   
 
 - 💻 Recent Projects: Database management, ETL automation, predictive modeling, and data visualization. Feel free to explore my repositories for more details!
